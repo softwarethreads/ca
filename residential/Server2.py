@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+# Created on September 6, 2020
+# Copyright (c) 2020 - Software Threads, Inc.
+
+
 from http.server import BaseHTTPRequestHandler, HTTPServer
 import logging
 

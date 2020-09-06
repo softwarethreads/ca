@@ -1,3 +1,8 @@
+
+# Created on Tue September 6, 2020
+# Copyright (c) 2020 - Software Threads, Inc.
+
+
 import warnings
 warnings.filterwarnings('ignore')
 import pickle

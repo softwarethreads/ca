@@ -1,3 +1,7 @@
+# Created on September 6, 2020
+# Copyright (c) 2020 - Software Threads, Inc.
+
+
 from pyspark.ml import Pipeline
 from pyspark.ml.classification import LogisticRegression
 from pyspark.ml.feature import HashingTF, Tokenizer

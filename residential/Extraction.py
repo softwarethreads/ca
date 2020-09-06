@@ -1,3 +1,8 @@
+# Created on September 6, 2020
+# Copyright (c) 2020 - Software Threads, Inc.
+
+
+
 import re
 from smartystreets_python_sdk import StaticCredentials, ClientBuilder
 from smartystreets_python_sdk.us_extract import Lookup as ExtractLookup

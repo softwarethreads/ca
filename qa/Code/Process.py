@@ -1,3 +1,7 @@
+# Created on Tue September 6, 2020
+# Copyright (c) 2020 - Software Threads, Inc.
+
+
 import numpy as np, pandas as pd
 from textblob import TextBlob
 import pickle

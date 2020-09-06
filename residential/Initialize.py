@@ -1,3 +1,7 @@
+# Created on September 6, 2020
+# Copyright (c) 2020 - Software Threads, Inc.
+
+
 import sqlite3
 import time
 from sqlite3 import Error
