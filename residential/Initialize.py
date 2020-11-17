@@ -70,10 +70,4 @@ class Initialize:
 
 
 initialize = Initialize()
-initialize.create_db_connection(r"/Users/ravibhargava/sqlite/db/repo")
-initialize.create_db_table()
 
-# initialize.create_es_connection()
-# zipcode = '93505'
-# initialize.index_name = 'listings_' + str(zipcode)
-# initialize.create_es_index(zipcode)
