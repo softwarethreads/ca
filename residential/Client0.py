@@ -88,61 +88,61 @@ class Client:
         print("user:", question)
         response = client.post(question)
         response_str = response.decode('utf-8')
-        print("dsiva:", response_str)
+        print("DiSCo:", response_str)
 
         question = "set default zip to 93505"
         print("user:", question)
         response = client.post(question)
         response_str = response.decode('utf-8')
-        print("dsiva:", response_str)
+        print("DiSCo:", response_str)
 
         question = "get default zip"
         print("user:", question)
         response = client.post(question)
         response_str = response.decode('utf-8')
-        print("dsiva:", response_str)
+        print("DiSCo:", response_str)
 
         question = "what properties are on the market in the price range 100,000 to 300000"
         print("user:", question)
         response = client.post(question)
         response_str = response.decode('utf-8')
-        print("dsiva:", response_str)
+        print("DiSCo:", response_str)
         #    i = i+1
         question = "make 69965 Rosemary Court the default house"
         print("user:", question)
         response = client.post(question)
         response_str = response.decode('utf-8')
-        print("dsiva:", response_str)
+        print("DiSCo:", response_str)
 
         question = "what is the price of the house"
         print("user:", question)
         response = client.post(question)
         response_str = response.decode('utf-8')
-        print("dsiva:", response_str)
+        print("DiSCo:", response_str)
 
         question = "how many bedrooms and bathrooms does it have"
         print("user:", question)
         response = client.post(question)
         response_str = response.decode('utf-8')
-        print("dsiva:", response_str)
+        print("DiSCo:", response_str)
 
         question = "how long has the property been on the market"
         print("user:", question)
         response = client.post(question)
         response_str = response.decode('utf-8')
-        print("dsiva:", response_str)
+        print("DiSCo:", response_str)
 
         question = "How much section 1 work does the house have"
         print("user:", question)
         response = client.post(question)
         response_str = response.decode('utf-8')
-        print("dsiva:", response_str)
+        print("DiSCo:", response_str)
 
         question = "what is the required setback from lot boundary"
         print("user:", question)
         response = client.post(question)
         response_str = response.decode('utf-8')
-        print("dsiva:", response_str)
+        print("DiSCo:", response_str)
 
     def getQuestion(self) :
         try:
@@ -166,8 +166,8 @@ class Client:
         except Exception as ex:
             print(str(ex))
 
-
-client = Client()
-print("Welcome to DSIVA")
-client.commandLine()
+if __name__ == '__main__':
+    client = Client()
+    print("Welcome to DiSCo")
+    client.commandLine()
 

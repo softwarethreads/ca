@@ -168,12 +168,13 @@ class Client:
             print(str(ex))
 
 
-client = Client()
-print("Welcome to DSIVA")
-while True:
-    question = client.getQuestion()
-    if question:
-        response = client.post(question)
-        response_str = response.decode('utf-8')
-        print("dsiva:", response_str)
+if __name__ == '__main__':
+    client = Client()
+    print("Welcome to DiSCo")
+    while True:
+        question = client.getQuestion()
+        if question:
+            response = client.post(question)
+            response_str = response.decode('utf-8')
+            print("dsiva:", response_str)
 

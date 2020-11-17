@@ -39,31 +39,3 @@ class Classification:
             return str(ex)
 
 
-# c = Classification()
-# e = Extraction()
-#
-# query = 'What properties are in 95030'
-# pred = c.predict(query)
-# print(pred)
-# print(e.processQuery(pred[0][0], query))
-#
-# query = 'What is the price of 123 Main st, los gatos, ca 95030'
-# pred = c.predict(query)
-# print(pred)
-# print(e.processQuery(pred[0][0], query))
-#
-# query = 'What are the houses are on sale in 95030 in the price range 1 mil to 2 mil'
-# pred = c.predict(query)
-# print(pred)
-# print(e.processQuery(pred[0][0], query))
-#
-
-# print(c.predict('How long has the house been on the market'))
-# print(c.predict('How much section 1 work does the house have'))
-# print(c.predict('What is the elementary, middle and high school'))
-# print(c.predict('When are they reviewing offers'))
-# print(c.predict('What is the square footage of the house'))
-# print(c.predict('How many bedrooms and baths does it have'))
-# print(c.predict('What properties having 3 or more bedrooms are on the market in 95030'))
-# print(c.predict('What is the lot size'))
-# print(c.predict('How much setback can I leave if I remodel to increase square footage'))

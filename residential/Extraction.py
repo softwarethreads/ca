@@ -91,20 +91,3 @@ class Extraction :
             return None
 
 
-# extraction = Extraction()
-# query = 'What properties in zip in 95030'
-# keywords = extraction.getMatchingKeyords(query)
-# print(keywords)
-#
-# zipcode = extraction.getZipcode(query)
-# print(zipcode)
-#
-# query = 'What properties in zip in 123 main st, los gatos, ca 95030'
-# addresses = extraction.getMatchingAddress(query)
-# print(addresses)
-
-# query = "What is the price of the house at 123 main st, los gatos, ca 95030"
-# print(extraction.processQuery(2.0, query))
-#
-# query = "What are the houses are on sale in 95030 in the price range one million to two million"
-# print(extraction.processQuery(3.0, query))

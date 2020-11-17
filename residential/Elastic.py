@@ -71,7 +71,7 @@ class Elastic:
                 }
             }
             zipcode = str(results[1][0])
-            if not self.db.exists_db(zipcode):
+            if not self.db.exists_zipcode(zipcode):
                 # Ignore 400 means to ignore "Index Already Exist" error.
                 index_name = 'listings_'+str(zipcode)
                 self.es.indices.create(index_name, ignore=400, body=settings)

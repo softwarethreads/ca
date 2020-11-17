@@ -23,9 +23,10 @@ class Ingestor:
         #self.pp.pprint(resp.text)
         return resp
 
-# ingestor = Ingestor()
-# resp=ingestor.callWebservice("93505")
-# ingestor.pp.pprint(resp.text)
+if __name__ == '__main__':
+    ingestor = Ingestor()
+    resp=ingestor.callWebservice("93505")
+    ingestor.pp.pprint(resp.text)
 
 
 
