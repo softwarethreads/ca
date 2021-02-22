@@ -1,0 +1,280 @@
+Was only able to generate 93 questions. For more questions, please input a longer text.
+1) Q: How long will you be notified?
+   A: If additional information is required or the project does not pass the Planning Screening, you will be notified within 48 hours of submittal. 
+
+2) Q: What are the requirements for a building permit?
+   A: If needed, plumbing, electrical and mechanical permits can be issued with the building permit. 
+
+3) Q: What are the CALGreen compliance forms and worksheets?
+   A: CALGreen compliance forms and worksheets such as Construction waste Management Plan can be found at CALGreen compliance forms and worksheets. 
+
+4) Q: How many copies of the calculations are required for a building?
+   A: For computer method compliance, submit 2 copies of calculations. 
+
+5) Q: Why is the email permit process suspended?
+   A: Due to Covid, Email Permit Procedures and Applications have been suspended. 
+
+6) Q: What is the preferred format for landscape plans?
+   A: (Digital copy of landscape plan is preferred. 
+
+7) Q: What is the definition of a remodel?
+   A: determined to be a Rebuild, the project will be classified as a new residence and not a remodel. 
+
+8) Q: Where can you find the CALGreen Checklist?
+   A: The checklists can be found at Green Building Requirements. 
+
+9) Q: What is the process for obtaining a building permit?
+   A: Some work may be eligible for Over the Counter permitting process. 
+
+10) Q: What is the difference between the highest and lowest elevation of the structure?
+    A: Show building height in feet and indicate the difference in elevation between the highest point of the structure (not including antennas, etc) and the highest and lowest ground elevation at the exterior foundation of the structure. 
+
+11) Q: What is the owner's name?
+    A: Also, specify the owner's name, the site address, the Assessor's Parcel Number, the occupancy category, and type of construction. 
+
+12) Q: What is the requirements for a geotechnical report?
+    A: Review Development Services Office Policy B-001 Geotechnical Report for further information on works that do not require Geotechnical report. 
+
+13) Q: What is the requirement for a building permit?
+    A: Encroachment Permit must be obtained prior to the issuance of the Building Permit. 
+
+14) Q: What is the minimum requirement for a geotechnical report?
+    A: A geotechnical report shall be compiled by a registered geotechnical or civil engineer and include, as a minimum, the following: (a) A plot showing the location of all test borings and/or excavations. 
+
+15) Q: What disciplines can be separated by a building permit?
+    A: Files are not to exceed 100 MB, and files can be separated by disciplines - examples architectural, structural, civil, and landscape. 
+
+16) Q: What are the fees for a building permit?
+    A: Plan check and PO review fees are required at the time of plan submission. 
+
+17) Q: What type of plans are required for a new construction project?
+    A: residential, with all applicable signatures, shall appear on plans. 
+
+18) Q: What are the fees for a building permit?
+    A: Fees are calculated based on the size, type and valuation of construction. 
+
+19) Q: What is the requirements for a retaining wall design?
+    A: (e) Recommendation for retaining wall design including soil active pressure, at-rest pressure, seismic earth pressure, passive pressure capacity, wall drainage, stepped wall design criteria, and any other applicable information. 
+
+20) Q: What is the requirements for a building permit?
+    A: Please contact RAD for Encroachment Permit submittal requirements. 
+
+21) Q: What is the cost of a building permit extension?
+    A: What if I need an extension on my Building Permit or my Plan Check? 
+
+22) Q: What fees are required to apply for a building permit?
+    A: Check and Planning fees are required at the time of application, the other fees can be paid when the permit is issued. 
+
+23) Q: Who is required to submit a foundation design report?
+    A: licensed architect and have supporting calculations to substantiate the design. 
+
+24) Q: What is the cost of a building permit extension?
+    A: If you require an extension to your Building Permit or Plan check, deliver a filled out a Plan Check Extension Form or a Building Permit Extension Form to Reception at the front counter of our office. 
+
+25) Q: What is the requirement for a drainage permit?
+    A: (8) If your project exceeds 2,000 square feet of net new impervious area (roof top, driveway, patios, and concrete walkways) a drainage permit is required. 
+
+26) Q: What are the fees for building permit inspection?
+    A: Building permit inspection, SMIP, encroachment, geologic review and septic system fees are paid at the time the permit is se4, Zoning Ordinance, Health Code, etc. 
+
+27) Q: What is the requirements for a OWTS clearance?
+    A: Once OWTS clearance is obtained, submit 3 original stamped and signed copies of OWTS plans or clearance with your building permit application. 
+
+28) Q: What is the elevation of the building?
+    A: In the Exterior Elevation submit elevations of all sides of the building. 
+
+29) Q: What type of permits are required for a new building?
+    A: Additional plans to be included with the building plans may be required for these permits. 
+
+30) Q: What is the minimum size of a building permit?
+    A: (2) Submit plans, to scale, with a sheet size of 18" X 24" to 24" X 36" and any other required documents digitally. 
+
+31) Q: What is the requirement for a water clearance letter?
+    A: Once the Water Clearance Letter is obtained, submit a Water Clearance Letter with your building permit application. 
+
+32) Q: What is the requirement for a building permit?
+    A: A building permit must be obtained before you construct, enlarge, alter, move, replace, repair, improve, convert, demolish or change the occupancy of a building or structure. 
+
+33) Q: What is the definition of a building permit?
+    A: All retaining walls, regardless of height, supporting a surcharge (for example road, structure or hillside, etc) require a building permit. 
+
+34) Q: What is the definition of a foundation design?
+    A: Foundation design criteria shall be in accordance with data provided in an accompanying soil report. 
+
+35) Q: What is required for grading permits?
+    A: (9) A grading permit is required if the quantities of earth excavation outside the footprint of the proposed building exceeds 150 cubic yards of cut or fill or 5’ vertical cut. 
+
+36) Q: What are the requirements for a landscape plan?
+    A: Landscape plans must identify proposed plants, water usage requirements, hydrozones, irrigation details, and water budget calculations. 
+
+37) Q: What is the requirement for a soil report?
+    A: A soil report may not be required for some structures depending on the nature and extent of work. 
+
+38) Q: What is the minimum requirement for a landscape permit?
+    A: (10) Landscape permits are required for all new landscape areas of 500 sf or more. 
+
+39) Q: What is the definition of a building permit?
+    A: For complete list of work exempt from permit see California Residential Code Section R105 and California Building Code Section 105. 
+
+40) Q: What are the fees for a building permit?
+    A: Any remaining fees, including the building permit fee, are payable prior to issuance of the building permit, as well as school fees, if applicable. 
+
+41) Q: What is the requirement for a prefabricated structure?
+    A: Manufacturers' Engineering Reports are required for ALL prefabricated structures and include structural calculations and drawings. 
+
+42) Q: What is the requirement for a permit for a proposed development?
+    A: ) (11) The Roads and Airports Department (RAD) requires an Encroachment Permit when the proposed scope of work involves improvements in the right-of-way near a county-maintained road (utility trenching, new driveway, etc). 
+
+43) Q: What is the minimum size of a building permit?
+    A: Building permit is not required for certain work such as one-story detached accessory structure (Sheds, Playhouse, etc) not exceeding 120 square feet, fences not over 7 ft high, retaining walls not over 4 ft in height (measured from the bottom of the footing to the top of the wall), etc. 
+
+44) Q: What is the minimum requirement for a landscape plan?
+    A: If the new proposed landscape area exceeds 2500sf, the plans must be designed, stamped, and signed by a licensed landscape architect. 
+
+45) Q: How long does it take to get an Encroachment Permit?
+    A: Normal processing takes four to six weeks. 
+
+46) Q: What is the requirement for a clearance letter?
+    A: Please contact DEH for clearance requirements. 
+
+47) Q: What is the minimum amount of work required to be approved for a building permit?
+    A: (1) Complete a Development Services Intake Form. 
+
+48) Q: What is the CALGreen Checklist?
+    A: CALGreen Checklist shall be included on plans. 
+
+49) Q: What is the requirements for a foundation design?
+    A: (d) Recommendations for foundation type and design criteria including bearing capacity, provisions to minimize the effects of expansive soils and effects of adjacent loads. 
+
+50) Q: What is the process for obtaining a building permit?
+    A: Please see our Over the Counter page in order to see if your project qualifies for this process, as well as to set an appointment if applicable. 
+
+51) Q: What is the requirements for a foundation plan?
+    A: In the Framing Plans submit framing plans for floor, ceiling, wall and roof framing indicating dimensions, materials, sizes, spacing, and connection details of all structural framing members. 
+
+52) Q: What is the required information for a foundation plan?
+    A: In the Roof Plan indicate roof layout, pitches, slope directions, roof covering, sheathing and underlayment. 
+
+53) Q: What is the purpose of the site plan?
+    A: In the Site plan show the outline of the Assessor's Tax Parcel and the location and use of all existing and proposed buildings. 
+
+54) Q: What type of plan is required for new construction?
+    A: Erosion Control Plan For projects creating less than 500 square feet of new impervious surface, please read, fill out, and sign the Erosion Control Checklist form. 
+
+55) Q: What is the requirement for a clearance?
+    A: Onsite Wastewater Treatment System (OWTS)/Septic System – The Department of Environmental Health (DEH) requires a clearance if the subject property requires a new or has an existing OWTS. 
+
+56) Q: What is the requirement for a well?
+    A: Onsite Well – The Department of Environmental Health (DEH) requires a clearance letter if the subject property is either developing or has an existing onsite well. 
+
+57) Q: What is the requirement for a building permit?
+    A: A Planning Screening may be required prior to initiating the building permit review. 
+
+58) Q: What is the requirements for a new landscape?
+    A: See our Sustainable Landscape page for requirements. 
+
+59) Q: What are the requirements for a new building?
+    A: (3) Design Professional (Engineers and Architects) must sign and stamp plans and calculations. 
+
+60) Q: What is the construction details?
+    A: In the Construction Details detailed cross-sections of foundation components, walls, anchoring, structural member connections, seismic connections, and other pertinent construction details. 
+
+61) Q: What is required for new structures?
+    A: The Geotechnical Report (soil) report is required for new structures; or additions larger than 1,200 square feet. [Y]
+
+62) Q: What type of measures are required for new construction?
+    A: (a) Mandatory and Tier 1 measures: All new single family residential and duplex not smaller than 3000 square feet. [N]
+
+63) Q: What type of plan is required for new construction?
+    A: For projects exceeding 500 square feet of new impervious surface, provide a complete Erosion Control Plan showing Best Management Practices (BMPs) that will be used to minimize erosion and prevent sediment and hazardous material from leaving the site (sample plan). [Y]
+
+64) Q: What type of building is required for a development?
+    A: (5) Forms for Development Impact Fee Compliance will be provided for: Local school district(s) clearance(s) on additions or conversions of non- habitable area which exceed 500 square feet Fire District clearance, if located within South Santa Clara County Fire District jurisdiction for new structures or additions which exceed 500 square feet. [N]
+
+65) Q: What is the definition of a building permit?
+    A: Santa Clara County REBUILD Determination and Points Allocation table. [N]
+
+66) Q: What is the difference between the foundation plan and the plan?
+    A: In the Foundation Plan show dimensions and depths into bearing soil of all foundation components. [Y]
+
+67) Q: What is the definition of a building permit?
+    A: Review Rebuild Ordinance for more information. [N]
+
+68) Q: What are the requirements for a building?
+    A: (4) Electrical, plumbing and mechanical permits may also be required, when applicable. [Y]
+
+69) Q: What is the floor area of the building?
+    A: Also indicate the gross floor area of all floors/levels and those to be heated. [N]
+
+70) Q: What is the plan for the property?
+    A: Plan details must include parcel dimensions, public streets, easements, required setbacks, building distance from all property lines, distance between buildings, off-street parking, driveways, sewer lines or septic tank and leach field locations, location of nearest fire hydrant, type of fire water system, percentage of the lot covered by buildings, scale of the drawings, and a north arrow. [Y]
+
+71) Q: What is the requirement for a permit?
+    A: Public Sanitary Sewer – If the subject property is connected to a public sanitary sewer, provide a permit or clearance letter from the sanitary sewer company indicating clearance of the proposed scope of work. [N]
+
+72) Q: What is the definition of a Rebuild?
+    A: In the Floor Plan show complete dimensions, Include location of smoke detectors, all appliances, heating system, electrical outlets, fixtures, attic and underfloor access, door and window types and sizes (tempered or thermal glass as required), other important structural elements, fire protection in attached garages, and any other information necessary to show that the building will meet all applicable codes. [N]
+
+73) Q: What is the minimum requirement for a geotechnical report?
+    A: (f) Expected total and differential settlement. [N]
+
+74) Q: What is the cost of a building permit?
+    A: Fees will be calculated upon submittal. [Y]
+
+75) Q: What is the difference between a new and a remodel?
+    A: In that case, building site approval, annexation to adjacent city or other requirements may result.[N] 
+
+76) Q: What is the requirement for a permit?
+    A: (7) Water and/or Sanitary Sewage Clearance (clearances are required prior to permit issuance) Public Water – For new construction, obtain “Will Serve Letter” from local water provider. [N]
+
+77) Q: What is the definition of a Rebuild?
+    A: If the street right-of-way to the parcel is not shown on the Assessor's Parcel Map, then a copy of the deed describing the access to the property must be included. [N]
+
+78) Q: What type of plan is required for a new construction?
+    A: Show all Mandatory Measures on the plan. [N]
+
+79) Q: What is the encroachment permit?
+    A: If there are no improvements in the right-of-way, please note this in the project description. [N]
+
+80) Q: What is the minimum requirement for a geotechnical report?
+    A: (b) Descriptions and classifications of materials encountered. [N]
+
+81) Q: What is the definition of what type of work?
+    A: Area (square feet) of existing structures, new construction, conversion, remodel etc. [N]
+
+82) Q: What is the requirement for a building permit?
+    A: Plans must include: A description of the project scope of work. [N]
+
+83) Q: What type of measures are required for new construction?
+    A: (b) Mandatory measures: Additions to existing single family. [Y]
+
+84) Q: What are the requirements for a calgreen building?
+    A: The applicable forms including CW-1 form shall be filled out and shall appear on plans. [Y]
+
+85) Q: What is the difference between a new and a remodel?
+    A: Indicate foundation anchoring details, reinforcements, crawl-space clearances, concrete encased electrode ground, vents and access. [N]
+
+86) Q: What is the minimum requirement for a geotechnical report?
+    A: (c) Elevation of the water table, if encountered. [N]
+
+87) Q: What is the definition of a building permit?
+    A: Review the Digital Submittal Requirements and Naming Conventions for file formatting requirements. [N]
+
+88) Q: What is the requirements for a foundation report?
+    A: Include details for connections, insulation placement, ceiling heights, and/or other necessary or unusual details. [N]
+
+89) Q: What is the minimum size of a building?
+    A: (6) Habitat Plan (if applicable): If located in Habitat Plan Area, submit the Habitat Plan Screening form or full Habitat Plan Application. [N]
+
+90) Q: What are the requirements for a new building?
+    A: Storm Water Quality Requirements: All projects are subject to State’s Regional Water Boards and the County’s Clean Water Program for storm water quality requirements. [N]
+
+91) Q: What is the definition of a foundation?
+    A: In the Architectural Cross Section show cross sections for as many areas as necessary to completely describe the structure layout. [N]
+
+92) Q: What type of plan is required for a new construction?
+    A: Provide heat loss calculations or specify the Alternative Component Package used. [N]
+
+93) Q: What are the requirements for a new building?
+    A: Additional information and details of BMPs are on sheets BMP1 and BMP2. [N]
+

@@ -1,0 +1,31 @@
+1) Q: How long will you be notified?
+   A: If additional information is required or the project does not pass the Planning Screening, you will be notified within 48 hours of submittal. [N]
+
+2) Q: What are the requirements for a building permit?
+   A: If needed, plumbing, electrical and mechanical permits can be issued with the building permit. [N]
+
+3) Q: What are the CALGreen compliance forms and worksheets?
+   A: CALGreen compliance forms and worksheets such as Construction waste Management Plan can be found at CALGreen compliance forms and worksheets. [Y]
+
+4) Q: How many copies of the calculations are required for a building?
+   A: For computer method compliance, submit 2 copies of calculations. [Y]
+
+5) Q: Why is the email permit process suspended?
+   A: Due to Covid, Email Permit Procedures and Applications have been suspended.[Y] 
+
+6) Q: What is the preferred format for landscape plans?
+   A: (Digital copy of landscape plan is preferred. [Y]
+
+7) Q: What is the definition of a remodel?
+   A: determined to be a Rebuild, the project will be classified as a new residence and not a remodel. [N]
+
+8) Q: Where can you find the CALGreen Checklist?
+   A: The checklists can be found at Green Building Requirements. [Y]
+
+9) Q: What is the process for obtaining a building permit?
+   A: Some work may be eligible for Over the Counter permitting process. [N]
+
+10) Q: What is the difference between the highest and lowest elevation of the structure?
+    A: Show building height in feet and indicate the difference in elevation between the highest point of the structure (not including antennas, etc) and the highest and lowest ground elevation at the exterior foundation of the structure. [Y]
+
+
