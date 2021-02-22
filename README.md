@@ -41,8 +41,6 @@ To run client type
 or 
 >python3 Client.py
 
-QA - Infersent implementation.
-=============================
 
 
 
