@@ -1,0 +1,687 @@
+What must be obtained before you construct or change the occupancy of a building or structure?
+A building permit must be obtained before you construct, enlarge, alter, move, replace, repair, improve, convert, demolish or change the occupancy of a building or structure.[Y]
+ 
+Who construct or change the occupancy of a building or structure?
+A building permit must be obtained before you construct, enlarge, alter, move, replace, repair, improve, convert, demolish or change the occupancy of a building or structure.[N]
+ 
+Must a building permit be obtained before you construct or change the occupancy of a building or structure?
+A building permit must be obtained before you construct, enlarge, alter, move, replace, repair, improve, convert, demolish or change the occupancy of a building or structure.[Y]
+ 
+What do all retaining walls supporting a surcharge require?
+All retaining walls, regardless of height, supporting a surcharge (for example road, structure or hillside, etc) require a building permit.[Y]
+ 
+What require a building permit?
+All retaining walls, regardless of height, supporting a surcharge (for example road, structure or hillside, etc) require a building permit.[N]
+ 
+What is structure or hillside?
+All retaining walls, regardless of height, supporting a surcharge (for example road, structure or hillside, etc) require a building permit.[N]
+ 
+What is example road?
+All retaining walls, regardless of height, supporting a surcharge (for example road, structure or hillside, etc) require a building permit.[N]
+ 
+Do all retaining walls supporting a surcharge require a building permit?
+All retaining walls, regardless of height, supporting a surcharge (for example road, structure or hillside, etc) require a building permit.[Y]
+ 
+Is example road structure or hillside?
+All retaining walls, regardless of height, supporting a surcharge (for example road, structure or hillside, etc) require a building permit.[N]
+ 
+Who have Email Permit Procedures and Applications been suspended to?
+Due to Covid, Email Permit Procedures and Applications have been suspended.[N]
+ 
+What have been suspended due to Covid?
+Due to Covid, Email Permit Procedures and Applications have been suspended.[Y]
+ 
+Have Email Permit Procedures and Applications been suspended due to Covid?
+Due to Covid, Email Permit Procedures and Applications have been suspended.[Y]
+ 
+What may be eligible for Over the Counter permitting process?
+Some work may be eligible for Over the Counter permitting process.[Y]
+ 
+May some work be eligible for Over the Counter permitting process?
+Some work may be eligible for Over the Counter permitting process.[Y]
+ 
+What may a Planning Screening be required prior to initiating the building do permit?
+A Planning Screening may be required prior to initiating the building permit review.[N]
+ 
+What may be required prior to initiating the building permit review?
+A Planning Screening may be required prior to initiating the building permit review.[Y]
+ 
+May a Planning Screening be required prior to initiating the building do permit review?
+A Planning Screening may be required prior to initiating the building permit review.[Y]
+ 
+If additional information is required or the project does not pass the Planning Screening, who will be notified within 48 hours of submittal?
+If additional information is required or the project does not pass the Planning Screening, you will be notified within 48 hours of submittal.[Y]
+ 
+If additional information is required or the project does not pass the Planning Screening, when will you be notified?
+If additional information is required or the project does not pass the Planning Screening, you will be notified within 48 hours of submittal.[Y]
+ 
+If additional information is required or the project does not pass the Planning Screening, will you be notified within 48 hours of submittal?
+If additional information is required or the project does not pass the Planning Screening, you will be notified within 48 hours of submittal.[Y]
+ 
+What do a Development Services intake?
+Complete a Development Services Intake Form.[N]
+ 
+What Intake Form?
+Complete a Development Services Intake Form.[N]
+ 
+Do a Development Services intake Form?
+Complete a Development Services Intake Form.[N]
+ 
+What will be calculated upon submittal?
+Fees will be calculated upon submittal.[Y]
+ 
+What will fees be calculated upon?
+Fees will be calculated upon submittal.[Y]
+ 
+Will fees be calculated upon submittal?
+Fees will be calculated upon submittal.[Y]
+ 
+What can be paid when the permit is issued?
+Check and Planning fees are required at the time of application, the other fees can be paid when the permit is issued.[Y]
+ 
+Can the other fees be paid when the permit is issued?
+Check and Planning fees are required at the time of application, the other fees can be paid when the permit is issued.[Y]
+ 
+Who plans?
+Submit plans, to scale, with a sheet size of 18'' X 24'' to 24'' X 36'' and any other required documents digitally.[N]
+ 
+Does Submit plan?
+Submit plans, to scale, with a sheet size of 18'' X 24'' to 24'' X 36'' and any other required documents digitally.[N]
+ 
+What does Review the Digital Submittal Requirements and Naming conventions for?
+Review the Digital Submittal Requirements and Naming Conventions for file formatting requirements.[N]
+ 
+What Conventions for file formatting requirements?
+Review the Digital Submittal Requirements and Naming Conventions for file formatting requirements.[N]
+ 
+Does Review the Digital Submittal Requirements and Naming conventions for file formatting requirements?
+Review the Digital Submittal Requirements and Naming Conventions for file formatting requirements.[N]
+ 
+What can be separated by disciplines- examples architectural civil, and landscape?
+Files are not to exceed 100 MB, and files can be separated by disciplines- examples architectural, structural, civil, and landscape.[Y]
+ 
+What can files be separated by?
+Files are not to exceed 100 MB, and files can be separated by disciplines- examples architectural, structural, civil, and landscape.[Y]
+ 
+What are not to exceed 100 MB?
+Files are not to exceed 100 MB, and files can be separated by disciplines- examples architectural, structural, civil, and landscape.[Y]
+ 
+What are files not to exceed?
+Files are not to exceed 100 MB, and files can be separated by disciplines- examples architectural, structural, civil, and landscape.[Y]
+ 
+Can files be separated by disciplines- examples architectural civil, and landscape?
+Files are not to exceed 100 MB, and files can be separated by disciplines- examples architectural, structural, civil, and landscape.[Y]
+ 
+Are files not to exceed 100 MB?
+Files are not to exceed 100 MB, and files can be separated by disciplines- examples architectural, structural, civil, and landscape.[N]
+ 
+What must include: A description of the project scope of work?
+Plans must include: A description of the project scope of work.[Y]
+ 
+What must plans include: A description of the project scope of?
+Plans must include: A description of the project scope of work.[Y]
+ 
+What must plans include?
+Plans must include: A description of the project scope of work.[Y]
+ 
+Must plans include: A description of the project scope of work?
+Plans must include: A description of the project scope of work.[Y]
+ 
+What did Santa Clara County rebuild?
+Santa Clara County REBUILD Determination and Points Allocation table.[N]
+ 
+What REBUILD Determination and Points Allocation table?
+Santa Clara County REBUILD Determination and Points Allocation table.[N]
+ 
+Did Santa Clara County rebuild Determination and Points Allocation table?
+Santa Clara County REBUILD Determination and Points Allocation table.[N]
+ 
+What do Review Rebuild ordinance for?
+Review Rebuild Ordinance for more information.[N]
+ 
+Who Ordinance for more information?
+Review Rebuild Ordinance for more information.[N]
+ 
+Do Review Rebuild ordinance for more information?
+Review Rebuild Ordinance for more information.[N]
+ 
+If the project is determined to be a Rebuild, what will be classified as a new residence and not a remodel?
+If the project is determined to be a Rebuild, the project will be classified as a new residence and not a remodel.[Y]
+ 
+If the project is determined to be a Rebuild, what will the project be classified as?
+If the project is determined to be a Rebuild, the project will be classified as a new residence and not a remodel.[Y]
+ 
+If the project is determined to be a Rebuild, will the project be classified as a new residence and not a remodel?
+If the project is determined to be a Rebuild, the project will be classified as a new residence and not a remodel.[Y]
+ 
+What may annexation to adjacent city or other requirements result in?
+In that case, building site approval, annexation to adjacent city or other requirements may result.[Y]
+ 
+What may result in that case?
+In that case, building site approval, annexation to adjacent city or other requirements may result.[N]
+ 
+May annexation to adjacent city or other requirements result in that case?
+In that case, building site approval, annexation to adjacent city or other requirements may result.[N]
+ 
+Who's Parcel Number, the occupancy category, and type of construction?
+Also, specify the owner's name, the site address, the Assessor's Parcel Number, the occupancy category, and type of construction.[N]
+ 
+Who does the Assessor's?
+Also, specify the owner's name, the site address, the Assessor's Parcel Number, the occupancy category, and type of construction.[N]
+ 
+Whose name is the site address?
+Also, specify the owner's name, the site address, the Assessor's Parcel Number, the occupancy category, and type of construction.[N]
+ 
+What is the site address?
+Also, specify the owner's name, the site address, the Assessor's Parcel Number, the occupancy category, and type of construction.[N]
+ 
+Does the Assessor's Parcel Number, the occupancy category, and type of construction?
+Also, specify the owner's name, the site address, the Assessor's Parcel Number, the occupancy category, and type of construction.[N]
+ 
+What is the owner's name?
+Also, specify the owner's name, the site address, the Assessor's Parcel Number, the occupancy category, and type of construction.[N]
+ 
+Is the owner's name the site address?
+Also, specify the owner's name, the site address, the Assessor's Parcel Number, the occupancy category, and type of construction.[N]
+ 
+If the street right-of-way to the parcel is not shown on the Assessor's Parcel Map what must be included?
+If the street right-of-way to the parcel is not shown on the Assessor's Parcel Map, then a copy of the deed describing the access to the property must be included.[Y]
+ 
+What do also indicate the gross floor area of to be heated?
+Also indicate the gross floor area of all floors\/levels and those to be heated.[N]
+ 
+What do also indicate?
+Also indicate the gross floor area of all floors\/levels and those to be heated.[N]
+ 
+What indicate the gross floor area of all floors\/levels and those to be heated?
+Also indicate the gross floor area of all floors\/levels and those to be heated.[N]
+ 
+Do also indicate the gross floor area of all floors\/levels and those to be heated?
+Also indicate the gross floor area of all floors\/levels and those to be heated.[N]
+ 
+What do Elevation submit elevations of in the Exterior?
+In the Exterior Elevation submit elevations of all sides of the building.[N]
+ 
+Where do Elevation submit elevations of all sides of the building?
+In the Exterior Elevation submit elevations of all sides of the building.[N]
+ 
+What do Elevation submit in the Exterior?
+In the Exterior Elevation submit elevations of all sides of the building.[N]
+ 
+What submit elevations of all sides of the building in the Exterior?
+In the Exterior Elevation submit elevations of all sides of the building.[N]
+ 
+What do Elevation submit elevations of all sides of the building in?
+In the Exterior Elevation submit elevations of all sides of the building.[N]
+ 
+Do Elevation submit elevations of all sides of the building in the Exterior?
+In the Exterior Elevation submit elevations of all sides of the building.[N]
+ 
+What are etc?
+Show building height in feet and indicate the difference in elevation between the highest point of the structure (not including antennas, etc) and the highest and lowest ground elevation at the exterior foundation of the structure.[N]
+ 
+What are antennas?
+Show building height in feet and indicate the difference in elevation between the highest point of the structure (not including antennas, etc) and the highest and lowest ground elevation at the exterior foundation of the structure.[N]
+ 
+Are antennas etc?
+Show building height in feet and indicate the difference in elevation between the highest point of the structure (not including antennas, etc) and the highest and lowest ground elevation at the exterior foundation of the structure.[N]
+ 
+What shall Foundation design criteria be in?
+Foundation design criteria shall be in accordance with data provided in an accompanying soil report.[Y]
+ 
+What shall be in accordance with data provided in an accompanying soil report?
+Foundation design criteria shall be in accordance with data provided in an accompanying soil report.[Y]
+ 
+Shall Foundation design criteria be in accordance with data provided in an accompanying soil report?
+Foundation design criteria shall be in accordance with data provided in an accompanying soil report.[N]
+ 
+Where do section show cross sections for as many areas as necessary to completely describe the structure layout?
+In the Architectural Cross Section show cross sections for as many areas as necessary to completely describe the structure layout.[Y]
+ 
+What show cross sections for as many areas as necessary to completely describe the structure layout in the Architectural Cross?
+In the Architectural Cross Section show cross sections for as many areas as necessary to completely describe the structure layout.[N]
+ 
+What do section show cross as necessary to completely describe the structure layout in the Architectural Cross?
+In the Architectural Cross Section show cross sections for as many areas as necessary to completely describe the structure layout.[N]
+ 
+What do section show cross sections for as many areas as necessary to completely describe the structure layout in?
+In the Architectural Cross Section show cross sections for as many areas as necessary to completely describe the structure layout.[N]
+ 
+What do section show cross sections for as many areas as in the Architectural Cross?
+In the Architectural Cross Section show cross sections for as many areas as necessary to completely describe the structure layout.[N]
+ 
+Do section show cross sections for as many areas as necessary to completely describe the structure layout in the Architectural Cross?
+In the Architectural Cross Section show cross sections for as many areas as necessary to completely describe the structure layout.[N]
+ 
+What do plans submit framing plans for floor wall and roof framing in the Framing?
+In the Framing Plans submit framing plans for floor, ceiling, wall and roof framing indicating dimensions, materials, sizes, spacing, and connection details of all structural framing members.[N]
+ 
+What do plans submit framing plans for framing indicating dimensions, materials, sizes, spacing, and connection details of all structural framing members in the Framing?
+In the Framing Plans submit framing plans for floor, ceiling, wall and roof framing indicating dimensions, materials, sizes, spacing, and connection details of all structural framing members.[N]
+ 
+What do Plan indicate roof covering, sheathing and underlayment in the Roof?
+In the Roof Plan indicate roof layout, pitches, slope directions, roof covering, sheathing and underlayment.[N]
+ 
+What indicate roof layout roof covering, sheathing and underlayment in the Roof?
+In the Roof Plan indicate roof layout, pitches, slope directions, roof covering, sheathing and underlayment.[N]
+ 
+What do Plan indicate roof layout roof covering, sheathing and underlayment in?
+In the Roof Plan indicate roof layout, pitches, slope directions, roof covering, sheathing and underlayment.[N]
+ 
+What are slope directions?
+In the Roof Plan indicate roof layout, pitches, slope directions, roof covering, sheathing and underlayment.[Y]
+ 
+What is roof layout?
+In the Roof Plan indicate roof layout, pitches, slope directions, roof covering, sheathing and underlayment.[Y]
+ 
+Do Plan indicate roof layout roof covering, sheathing and underlayment in the Roof?
+In the Roof Plan indicate roof layout, pitches, slope directions, roof covering, sheathing and underlayment.[N]
+ 
+What is pitches?
+In the Roof Plan indicate roof layout, pitches, slope directions, roof covering, sheathing and underlayment.[N]
+ 
+What are pitches?
+In the Roof Plan indicate roof layout, pitches, slope directions, roof covering, sheathing and underlayment.[N]
+ 
+Are pitches slope directions?
+In the Roof Plan indicate roof layout, pitches, slope directions, roof covering, sheathing and underlayment.[N]
+ 
+Is roof layout pitches?
+In the Roof Plan indicate roof layout, pitches, slope directions, roof covering, sheathing and underlayment.[N]
+ 
+What were foundation components?
+In the Construction Details detailed cross-sections of foundation components, walls, anchoring, structural member connections, seismic connections, and other pertinent construction details.[N]
+ 
+What were walls?
+In the Construction Details detailed cross-sections of foundation components, walls, anchoring, structural member connections, seismic connections, and other pertinent construction details.[N]
+ 
+What anchoring?
+In the Construction Details detailed cross-sections of foundation components, walls, anchoring, structural member connections, seismic connections, and other pertinent construction details.[N]
+ 
+Did detailed cross-sections of foundation components anchor?
+In the Construction Details detailed cross-sections of foundation components, walls, anchoring, structural member connections, seismic connections, and other pertinent construction details.[N]
+ 
+Were foundation components walls?
+In the Construction Details detailed cross-sections of foundation components, walls, anchoring, structural member connections, seismic connections, and other pertinent construction details.[N]
+ 
+What is the Geotechnical Report report required for?
+The Geotechnical Report report is required for new structures; or additions larger than 1,200 square feet.[Y]
+ 
+What is required for new structures; or additions larger than 1,200 square feet?
+The Geotechnical Report report is required for new structures; or additions larger than 1,200 square feet.[Y]
+ 
+Is the Geotechnical Report report required for new structures; or additions larger than 1,200 square feet?
+The Geotechnical Report report is required for new structures; or additions larger than 1,200 square feet.[Y]
+ 
+What may not be required for some structures depending on the nature and extent of work?
+A soil report may not be required for some structures depending on the nature and extent of work.[Y]
+ 
+What may a soil report not be required for depending on the nature and extent of work?
+A soil report may not be required for some structures depending on the nature and extent of work.[N]
+ 
+May a soil report not be required for some structures depending on the nature and extent of work?
+A soil report may not be required for some structures depending on the nature and extent of work.[Y]
+ 
+What Policy B-001 Geotechnical Report for further information on works that do not require Geotechnical report?
+Review Development Services Office Policy B-001 Geotechnical Report for further information on works that do not require Geotechnical report.[N]
+ 
+What Review Development Services Office Policy?
+Review Development Services Office Policy B-001 Geotechnical Report for further information on works that do not require Geotechnical report.[N]
+ 
+What shall be compiled by a registered geotechnical or civil engineer?
+A geotechnical report shall be compiled by a registered geotechnical or civil engineer and include, as a minimum, the following: A plot showing the location of all test borings and\/or excavations.[Y]
+ 
+Who shall a geotechnical report be compiled by?
+A geotechnical report shall be compiled by a registered geotechnical or civil engineer and include, as a minimum, the following: A plot showing the location of all test borings and\/or excavations.[Y]
+ 
+Shall a geotechnical report be compiled by a registered geotechnical or civil engineer?
+A geotechnical report shall be compiled by a registered geotechnical or civil engineer and include, as a minimum, the following: A plot showing the location of all test borings and\/or excavations.[N]
+ 
+What encountered?
+Descriptions and classifications of materials encountered.[N]
+ 
+Did descriptions and classifications of materials encounter?
+Descriptions and classifications of materials encountered.[N]
+ 
+What encountered?[N]
+Elevation of the water table, if encountered.
+ 
+Did elevation of the water table encounter?
+Elevation of the water table, if encountered.[N]
+ 
+What did Recommendation step?
+Recommendation for retaining wall design including soil active pressure, at-rest pressure, seismic earth pressure, passive pressure capacity, wall drainage, stepped wall design criteria, and any other applicable information.[N]
+ 
+What stepped wall design criteria, and any other applicable information?
+Recommendation for retaining wall design including soil active pressure, at-rest pressure, seismic earth pressure, passive pressure capacity, wall drainage, stepped wall design criteria, and any other applicable information.[N]
+ 
+Did Recommendation step wall design criteria, and any other applicable information?
+Recommendation for retaining wall design including soil active pressure, at-rest pressure, seismic earth pressure, passive pressure capacity, wall drainage, stepped wall design criteria, and any other applicable information.[N]
+ 
+Whose Engineering Reports are required for ALL prefabricated structures?
+Manufacturers ' Engineering Reports are required for ALL prefabricated structures and include structural calculations and drawings.[N]
+ 
+What are Manufacturers ' Engineering Reports required for?
+Manufacturers ' Engineering Reports are required for ALL prefabricated structures and include structural calculations and drawings.[Y]
+ 
+What are required for ALL prefabricated structures?
+Manufacturers ' Engineering Reports are required for ALL prefabricated structures and include structural calculations and drawings.[Y]
+ 
+Are Manufacturers ' Engineering Reports required for ALL prefabricated structures?
+Manufacturers ' Engineering Reports are required for ALL prefabricated structures and include structural calculations and drawings.[Y]
+ 
+What shall Title 24 appear on?
+Title 24, State Energy Calculations: A Certificate of Compliance for residential and for non- residential, with all applicable signatures, shall appear on plans.[Y]
+ 
+What shall appear on plans?
+Title 24, State Energy Calculations: A Certificate of Compliance for residential and for non- residential, with all applicable signatures, shall appear on plans.[Y]
+ 
+Shall Title 24 appear on plans?
+Title 24, State Energy Calculations: A Certificate of Compliance for residential and for non- residential, with all applicable signatures, shall appear on plans.[Y]
+ 
+What shall CALGreen Checklist be included on?
+CALGreen Checklist shall be included on plans.[Y]
+ 
+What shall be included on plans?
+CALGreen Checklist shall be included on plans.[Y]
+ 
+Shall CALGreen Checklist be included on plans?
+CALGreen Checklist shall be included on plans.[Y]
+ 
+What can be found at Green Building Requirements?
+The checklists can be found at Green Building Requirements.[Y]
+ 
+What can the checklists be found at?
+The checklists can be found at Green Building Requirements.[N]
+ 
+Can the checklists be found at Green Building Requirements?
+The checklists can be found at Green Building Requirements.[Y]
+ 
+What can cALGreen compliance forms and worksheets such as Construction waste Management Plan be found at?
+CALGreen compliance forms and worksheets such as Construction waste Management Plan can be found at CALGreen compliance forms and worksheets.[N]
+ 
+What can be found at CALGreen compliance forms and worksheets?
+CALGreen compliance forms and worksheets such as Construction waste Management Plan can be found at CALGreen compliance forms and worksheets.[Y]
+ 
+Can cALGreen compliance forms and worksheets such as Construction waste Management Plan be found at CALGreen compliance forms and worksheets?
+CALGreen compliance forms and worksheets such as Construction waste Management Plan can be found at CALGreen compliance forms and worksheets.[N]
+ 
+What shall the applicable forms including CW-1 form appear on?
+The applicable forms including CW-1 form shall be filled out and shall appear on plans.[Y]
+ 
+Shall the applicable forms including CW-1 form appear on plans?
+The applicable forms including CW-1 form shall be filled out and shall appear on plans.[Y]
+ 
+What shall appear on plans?
+The applicable forms including CW-1 form shall be filled out and shall appear on plans.[Y]
+ 
+Shall the applicable forms including CW-1 form be filled out?
+The applicable forms including CW-1 form shall be filled out and shall appear on plans.[Y]
+ 
+What shall be filled out?
+The applicable forms including CW-1 form shall be filled out and shall appear on plans.[Y]
+ 
+For projects creating less than 500 square feet of new impervious surface, what pleaseread?
+Erosion Control Plan For projects creating less than 500 square feet of new impervious surface, pleaseread, fill out, and sign the Erosion Control Checklist form.[N]
+ 
+For projects creating less than 500 square feet of new impervious surface, did Erosion Control Plan pleaseread?
+Erosion Control Plan For projects creating less than 500 square feet of new impervious surface, pleaseread, fill out, and sign the Erosion Control Checklist form.[N]
+ 
+What are additional information and details of BMPs on?
+Additional information and details of BMPs are on sheets BMP1 and BMP2.[N]
+ 
+What are on sheets BMP1 and BMP2?
+Additional information and details of BMPs are on sheets BMP1 and BMP2.[Y]
+ 
+Are additional information and details of BMPs on sheets BMP1 and BMP2?
+Additional information and details of BMPs are on sheets BMP1 and BMP2.[N]
+ 
+What must Design Professional sign?
+Design Professional (Engineers and Architects) must sign and stamp plans and calculations.[Y]
+ 
+Who must sign and stamp plans and calculations?
+Design Professional (Engineers and Architects) must sign and stamp plans and calculations.[Y]
+ 
+Must Design Professional sign and stamp plans and calculations?
+Design Professional (Engineers and Architects) must sign and stamp plans and calculations.[N]
+ 
+What may also be required?
+Electrical, plumbing and mechanical permits may also be required, when applicable.[N]
+ 
+May electrical, plumbing and mechanical permits also be required?
+Electrical, plumbing and mechanical permits may also be required, when applicable.[N]
+ 
+What may additional plans to be included with the building plans be required for?
+Additional plans to be included with the building plans may be required for these permits.[N]
+ 
+What may be required for these permits?
+Additional plans to be included with the building plans may be required for these permits.[N]
+ 
+May additional plans to be included with the building plans be required for these permits?
+Additional plans to be included with the building plans may be required for these permits.
+ 
+For new construction, what obtain ``Will Serve Letter'' from local water provider?
+Water and\/or Sanitary Sewage Clearance (clearances are required prior to permit issuance) Public Water For new construction, obtain ``Will Serve Letter'' from local water provider.[N]
+ 
+For new construction, what do Water and\/or Sanitary Sewage Clearance Public Water obtain?
+Water and\/or Sanitary Sewage Clearance (clearances are required prior to permit issuance) Public Water For new construction, obtain ``Will Serve Letter'' from local water provider.[N]
+ 
+For new construction, do Water and\/or Sanitary Sewage Clearance Public Water obtain ``Will Serve Letter'' from local water provider?
+Water and\/or Sanitary Sewage Clearance (clearances are required prior to permit issuance) Public Water For new construction, obtain ``Will Serve Letter'' from local water provider.[N]
+ 
+If the subject property is connected to a public sanitary sewer, what do Public Sanitary Sewer provide?
+Public Sanitary Sewer If the subject property is connected to a public sanitary sewer, provide a permit or clearance letter from the sanitary sewer company indicating clearance of the proposed scope of work.[N]
+ 
+What is connected to a public sanitary sewer?
+Public Sanitary Sewer If the subject property is connected to a public sanitary sewer, provide a permit or clearance letter from the sanitary sewer company indicating clearance of the proposed scope of work.[Y]
+ 
+What is the subject property connected to?
+Public Sanitary Sewer If the subject property is connected to a public sanitary sewer, provide a permit or clearance letter from the sanitary sewer company indicating clearance of the proposed scope of work.[Y]
+ 
+Is the subject property connected to a public sanitary sewer?
+Public Sanitary Sewer If the subject property is connected to a public sanitary sewer, provide a permit or clearance letter from the sanitary sewer company indicating clearance of the proposed scope of work.[Y]
+ 
+What requires a clearance letter if the subject property is either developing or has an existing onsite well?
+Onsite Well The Department of Environmental Health requires a clearance letter if the subject property is either developing or has an existing onsite well.[Y]
+ 
+What does the Department of Environmental Health require?
+Onsite Well The Department of Environmental Health requires a clearance letter if the subject property is either developing or has an existing onsite well.[Y]
+ 
+Does the Department of Environmental Health require a clearance letter if the subject property is either developing or has an existing onsite well?
+Onsite Well The Department of Environmental Health requires a clearance letter if the subject property is either developing or has an existing onsite well.[Y]
+ 
+What is obtained?
+Once the Water Clearance Letter is obtained, submit a Water Clearance Letter with your building permit application.[N]
+ 
+Is the Water Clearance Letter obtained?
+Once the Water Clearance Letter is obtained, submit a Water Clearance Letter with your building permit application.[N]
+ 
+What does the Department of Environmental Health require?
+Onsite Wastewater Treatment System \/ Septic System The Department of Environmental Health requires a clearance if the subject property requires a new or has an existing OWTS.[Y]
+ 
+What requires a clearance if the subject property requires a new or has an existing OWTS?
+Onsite Wastewater Treatment System \/ Septic System The Department of Environmental Health requires a clearance if the subject property requires a new or has an existing OWTS.[Y]
+ 
+Does the Department of Environmental Health require a clearance if the subject property requires a new or has an existing OWTS?
+Onsite Wastewater Treatment System \/ Septic System The Department of Environmental Health requires a clearance if the subject property requires a new or has an existing OWTS.[Y]
+ 
+What is obtained?
+Once OWTS clearance is obtained, submit 3 original stamped and signed copies of OWTS plans or clearance with your building permit application.[N]
+ 
+Is OWTS clearance obtained?
+Once OWTS clearance is obtained, submit 3 original stamped and signed copies of OWTS plans or clearance with your building permit application.[N]
+ 
+If your project exceeds 2,000 square feet of net new impervious area what is required?
+If your project exceeds 2,000 square feet of net new impervious area (roof top, driveway, patios, and concrete walkways) a drainage permit is required.[Y]
+ 
+If your project exceeds 2,000 square feet of net new impervious area is a drainage permit required?
+If your project exceeds 2,000 square feet of net new impervious area (roof top, driveway, patios, and concrete walkways) a drainage permit is required.[Y]
+ 
+What is required if the quantities of earth excavation outside the footprint of the proposed building exceeds 150 cubic yards of cut or fill or 5 ' vertical cut?
+A grading permit is required if the quantities of earth excavation outside the footprint of the proposed building exceeds 150 cubic yards of cut or fill or 5 ' vertical cut.[Y]
+ 
+What are required for all new landscape areas of 500 sf or more?
+Landscape permits are required for all new landscape areas of 500 sf or more.[Y]
+ 
+What are Landscape permits required for?
+Landscape permits are required for all new landscape areas of 500 sf or more.[Y]
+ 
+Are Landscape permits required for all new landscape areas of 500 sf or more?
+Landscape permits are required for all new landscape areas of 500 sf or more.[Y]
+ 
+What must Landscape plans identify?
+Landscape plans must identify proposed plants, water usage requirements, hydrozones, irrigation details, and water budget calculations.[Y]
+ 
+What must identify proposed plants?
+Landscape plans must identify proposed plants, water usage requirements, hydrozones, irrigation details, and water budget calculations.[N]
+ 
+Must Landscape plans identify proposed plants?
+Landscape plans must identify proposed plants, water usage requirements, hydrozones, irrigation details, and water budget calculations.[Y]
+ 
+If the new proposed landscape area exceeds 2500sf, what must be signed by a licensed landscape architect?
+If the new proposed landscape area exceeds 2500sf, the plans must be designed, stamped, and signed by a licensed landscape architect.[Y]
+ 
+If the new proposed landscape area exceeds 2500sf, who must the plans be signed by?
+If the new proposed landscape area exceeds 2500sf, the plans must be designed, stamped, and signed by a licensed landscape architect.[Y]
+ 
+If the new proposed landscape area exceeds 2500sf, what must be stamped?
+If the new proposed landscape area exceeds 2500sf, the plans must be designed, stamped, and signed by a licensed landscape architect.[Y]
+ 
+If the new proposed landscape area exceeds 2500sf, what must be designed?
+If the new proposed landscape area exceeds 2500sf, the plans must be designed, stamped, and signed by a licensed landscape architect.[N]
+ 
+If the new proposed landscape area exceeds 2500sf, must the plans be signed by a licensed landscape architect?
+If the new proposed landscape area exceeds 2500sf, the plans must be designed, stamped, and signed by a licensed landscape architect.[Y]
+ 
+If the new proposed landscape area exceeds 2500sf, must the plans be stamped?
+If the new proposed landscape area exceeds 2500sf, the plans must be designed, stamped, and signed by a licensed landscape architect.[Y]
+ 
+If the new proposed landscape area exceeds 2500sf, must the plans be designed?
+If the new proposed landscape area exceeds 2500sf, the plans must be designed, stamped, and signed by a licensed landscape architect.[N]
+ 
+What (is preferred? )
+(Digital copy of landscape plan is preferred. )[N]
+ 
+Is (Digital copy of landscape plan preferred? )
+(Digital copy of landscape plan is preferred. )[N]
+ 
+What requires an Encroachment Permit when the proposed scope of work involves improvements in the right-of-way near a county-maintained road?
+The Roads and Airports Department requires an Encroachment Permit when the proposed scope of work involves improvements in the right-of-way near a county-maintained road (utility trenching, new driveway, etc).[Y]
+ 
+What does the Roads and Airports Department require when the proposed scope of work involves improvements in the right-of-way near a county-maintained road?
+The Roads and Airports Department requires an Encroachment Permit when the proposed scope of work involves improvements in the right-of-way near a county-maintained road (utility trenching, new driveway, etc).[Y]
+ 
+Does the Roads and Airports Department require an Encroachment Permit when the proposed scope of work involves improvements in the right-of-way near a county-maintained road?
+The Roads and Airports Department requires an Encroachment Permit when the proposed scope of work involves improvements in the right-of-way near a county-maintained road (utility trenching, new driveway, etc).[Y]
+ 
+Who is new driveway?
+The Roads and Airports Department requires an Encroachment Permit when the proposed scope of work involves improvements in the right-of-way near a county-maintained road (utility trenching, new driveway, etc).[N]
+ 
+What is utility trenching?
+The Roads and Airports Department requires an Encroachment Permit when the proposed scope of work involves improvements in the right-of-way near a county-maintained road (utility trenching, new driveway, etc).[N]
+ 
+Who is etc?
+The Roads and Airports Department requires an Encroachment Permit when the proposed scope of work involves improvements in the right-of-way near a county-maintained road (utility trenching, new driveway, etc).[N]
+ 
+Is utility trenching etc?
+The Roads and Airports Department requires an Encroachment Permit when the proposed scope of work involves improvements in the right-of-way near a county-maintained road (utility trenching, new driveway, etc).[N]
+ 
+Is utility trenching new driveway?
+The Roads and Airports Department requires an Encroachment Permit when the proposed scope of work involves improvements in the right-of-way near a county-maintained road (utility trenching, new driveway, etc).[N]
+ 
+What must be obtained prior to the issuance of the Building Permit?
+The Encroachment Permit must be obtained prior to the issuance of the Building Permit.[Y]
+ 
+What must the Encroachment Permit be obtained prior to?
+The Encroachment Permit must be obtained prior to the issuance of the Building Permit.[Y]
+ 
+Must the Encroachment Permit be obtained prior to the issuance of the Building Permit?
+The Encroachment Permit must be obtained prior to the issuance of the Building Permit.[Y]
+ 
+What are calculated based on the size?
+Fees are calculated based on the size, type and valuation of construction.[N]
+ 
+What is type and valuation of construction?
+Fees are calculated based on the size, type and valuation of construction.[N]
+ 
+What is the size type and valuation of?
+Fees are calculated based on the size, type and valuation of construction.[N]
+ 
+What are fees calculated based on?
+Fees are calculated based on the size, type and valuation of construction.[Y]
+ 
+What is the size?
+Fees are calculated based on the size, type and valuation of construction.[N]
+ 
+Are fees calculated based on the size?
+Fees are calculated based on the size, type and valuation of construction.[N]
+ 
+Is the size type and valuation of construction?
+Fees are calculated based on the size, type and valuation of construction.[N]
+ 
+When are Plan check and PO review fees required?
+Plan check and PO review fees are required at the time of plan submission.[Y]
+ 
+What are required at the time of plan submission?
+Plan check and PO review fees are required at the time of plan submission.[Y]
+ 
+Are Plan check and PO review fees required at the time of plan submission?
+Plan check and PO review fees are required at the time of plan submission.[Y]
+ 
+What is Health Code?
+Building permit inspection, SMIP, encroachment, geologic review and septic system fees are paid at the time the permit is se4, Zoning Ordinance, Health Code, etc.[N]
+ 
+What is Zoning Ordinance?
+Building permit inspection, SMIP, encroachment, geologic review and septic system fees are paid at the time the permit is se4, Zoning Ordinance, Health Code, etc.[N]
+ 
+What is SMIP, encroachment, geologic review and septic system?
+Building permit inspection, SMIP, encroachment, geologic review and septic system fees are paid at the time the permit is se4, Zoning Ordinance, Health Code, etc.[N]
+ 
+What is se4?
+Building permit inspection, SMIP, encroachment, geologic review and septic system fees are paid at the time the permit is se4, Zoning Ordinance, Health Code, etc.[N]
+ 
+What is inspection?
+Building permit inspection, SMIP, encroachment, geologic review and septic system fees are paid at the time the permit is se4, Zoning Ordinance, Health Code, etc.[N]
+ 
+Is se4 Zoning Ordinance?
+Building permit inspection, SMIP, encroachment, geologic review and septic system fees are paid at the time the permit is se4, Zoning Ordinance, Health Code, etc.[N]
+ 
+Is Zoning Ordinance Health Code?
+Building permit inspection, SMIP, encroachment, geologic review and septic system fees are paid at the time the permit is se4, Zoning Ordinance, Health Code, etc.[N]
+ 
+Is inspection SMIP, encroachment, geologic review and septic system?
+Building permit inspection, SMIP, encroachment, geologic review and septic system fees are paid at the time the permit is se4, Zoning Ordinance, Health Code, etc.[N]
+ 
+How many weeks does normal processing take?
+Normal processing takes four to six weeks.[Y]
+ 
+What takes four to six weeks?
+Normal processing takes four to six weeks.[N]
+ 
+When does normal processing take?
+Normal processing takes four to six weeks.[N]
+ 
+Does normal processing take four to six weeks?
+Normal processing takes four to six weeks.[Y]
+ 
+What are payable prior to issuance of the building permit?
+Any remaining fees, including the building permit fee, are payable prior to issuance of the building permit, as well as school fees, if applicable.[Y]
+ 
+What are any remaining fees payable prior to permit?
+Any remaining fees, including the building permit fee, are payable prior to issuance of the building permit, as well as school fees, if applicable.[N]
+ 
+Are any remaining fees payable prior to issuance of the building permit?
+Any remaining fees, including the building permit fee, are payable prior to issuance of the building permit, as well as school fees, if applicable.[Y]
+ 
+If needed, what can be issued with the building permit?
+If needed, plumbing, electrical and mechanical permits can be issued with the building permit.[Y]
+ 
+If needed, what can plumbing be issued with do permit?
+If needed, plumbing, electrical and mechanical permits can be issued with the building permit.[N]
+ 
+If needed, can plumbing be issued with the building do permit?
+If needed, plumbing, electrical and mechanical permits can be issued with the building permit.[N]
+ 
+
+
+
